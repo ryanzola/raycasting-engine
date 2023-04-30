@@ -1,6 +1,6 @@
 # Raycasting Engine
 
-I will be attempting to implement a traditional raycasting engine in C, using the SDL2 library. Raycasting is a popular technique used in 2D game engines to create a pseudo-3D environment, and it's most famously known for its use in the classic game "Wolfenstein 3D". I embarked on this project as an academic exercise to learn more about raycasting and bring back some of the enjoyment I had while playing iconic games like Wolfenstein 3D, Doom, and Duke Nukem 3D during my childhood. This project aims to showcase the fundamentals of raycasting engines and their role in the history of game development, while also revisiting the fun of these classic titles.
+I will be attempting to implement a traditional raycasting engine in C, using the SDL2 library. Raycasting is a popular technique used in 2D game engines to create a pseudo-3D environment, and it's most famously known for its use in the classic game "Wolfenstein 3D". I embark on this project as an academic exercise to learn more about raycasting and bring back some of the enjoyment I had while playing iconic games like Wolfenstein 3D, Doom, and Duke Nukem 3D during my childhood. This project aims to showcase the fundamentals of raycasting engines and their role in the history of game development, while also revisiting the fun of these classic titles.
 
 ## Features
 
